@@ -2,26 +2,26 @@ The basic  fundamental concepts  of version control is  tracking changes that ha
 s.It ensures that errors can be corrected quickly and that the integrity of the project is maintained
 
 These are the process of setting up a new repository on GitHub
-1. In the upper-right corner of any page, select , then click New repository.
-2. Type a short, memorable name for your repository. ...
-3. Optionally, add a description of your repository. ...
-4. Choose a repository visibility. ...
-5. Select Initialize this repository with a README.
-6. Click Create repository.
+In the upper-right corner of any page, select , then click New repository.
+Type a short, memorable name for your repository. ...
+Optionally, add a description of your repository. ...
+Choose a repository visibility. ...
+Select Initialize this repository with a README.
+Click Create repository.
 
 These are the importance of the README file in a GitHub repository
-1. communicate important information about your project
-2. citation file
-3. contribution guidelines
-4. code of conduct
+communicate important information about your project
+citation file
+contribution guidelines
+code of conduct
 
 A good README typically consists of the following sections:
-1. Title and Description. Start with a concise project title and a brief description of what your project does. ...
-2. Table of Contents. ...
-3. Usage.
-4. Contributing
-5. License.
-6. Badges.
+Title and Description. Start with a concise project title and a brief description of what your project does. ...
+Table of Contents. ...
+Usage.
+Contributing
+License.
+Badges.
 
 README contribute to effective collaboration in the following ways:
 When new team members or contributors join a project, a well-structured README becomes an invaluable resource. It helps them quickly understand the project's goals, architecture, and guidelines. This speeds up onboarding and fosters better collaboration, as everyone can start on the same page.
